@@ -5,7 +5,7 @@
 
 ### Detailed Information
 - **Name**: Eder Matos 
-- **Age**: 29 
+- **Age**: 30 
 - **Location**: Sorocaba - SP, Brazil  
 - **Stack**: C, C++, C#, IoT, Firmware, KiCad, Node-RED, Codesys, LoRa, SQL  
 - **Learning**: FreeRTOS, Embedded Systems Architecture  
